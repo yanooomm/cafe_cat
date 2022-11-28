@@ -73,14 +73,14 @@ a:hover, a:focus
 
 .cafe-item01
 {
-    background-image: url(/img/ris1.jpg);
+    background-image: url(https://tayniymir.com/wp-content/uploads/2017/09/36i59c3d6d4205665.36544911.jpg);
     margin-right: 30px;
     margin-left: 30px;
 }
 
 .cafe-item02
 {
-    background-image: url(/img/man.jpg);
+    background-image: url(https://tayniymir.com/wp-content/uploads/2017/09/36i59c3d6d4205665.36544911.jpg);
     margin-right: 30px;
 }
 
@@ -99,7 +99,7 @@ a:hover, a:focus
 
 .cafe-item05
 {
-    background-image: url(/img/avoc.jpg);
+    background-image: url(avoc.jpg);
     margin-right: 30px;
 }
 
@@ -150,11 +150,6 @@ a:hover, a:focus
 .pr
 {
     margin-top: 60px;
-}
-
-.w-75
-{
-    margin-left: 195px;
 }
 
 .tel-it
