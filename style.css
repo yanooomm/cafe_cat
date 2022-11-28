@@ -24,7 +24,7 @@ a:hover, a:focus
     text-align: center;
     background-color: #e9dad7;
     height: 200px;
-    background-image: url(img/foon.jpg);
+    background-image: url(/img/foon.jpg);
    
 }
 
